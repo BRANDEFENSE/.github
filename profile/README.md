@@ -9,7 +9,7 @@ AI-driven threat intelligence platform that unifies Cyber Threat Intelligence, D
 | Repository | What it holds |
 |---|---|
 | [threat-actor-dataset](https://github.com/BRANDEFENSE/threat-actor-dataset) | 52 APT groups, 28 ransomware groups, 59 malware families, 42 MITRE ATT&CK techniques. JSON, CSV, STIX 2.1 |
-| [exploited-vulnerabilities-dataset](https://github.com/BRANDEFENSE/exploited-vulnerabilities-dataset) | 89 exploited or high-severity CVEs with CVSS and CISA KEV status. JSON, CSV, STIX 2.1 |
+| [exploited-vulnerabilities-dataset](https://github.com/BRANDEFENSE/exploited-vulnerabilities-dataset) | 90 exploited or high-severity CVEs with CVSS and CISA KEV status. JSON, CSV, STIX 2.1 |
 | [IoC](https://github.com/BRANDEFENSE/IoC) | Indicators of compromise and YARA rules from our research |
 | [Threat-Intelligence-Researches](https://github.com/BRANDEFENSE/Threat-Intelligence-Researches) | Threat research reports (PDF) |
 
